@@ -1,16 +1,24 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy LUIS MIGUEL CUENCA BUSTOS
 
-<!--
-**Disesword/Disesword** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 Sobre mí
+Soy un apasionado/a de la tecnología y el desarrollo. Me encanta aprender, colaborar y crear proyectos que marcan la diferencia.
 
-Here are some ideas to get you started:
+## 💻 Intereses
+- **Programación**: Python, JavaScript y desarrollo web.
+- **Proyectos open source**: Creo en el poder de compartir conocimiento.
+- **Exploración tecnológica**: Siempre busco probar nuevas herramientas y tecnologías.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Proyectos destacados
+- [Mi proyecto increíble](https://github.com/usuario/proyecto-ejemplo): Una breve descripción sobre lo que hace este proyecto.
+- [Otro proyecto interesante](https://github.com/usuario/otro-proyecto): ¡Un poco más de detalles aquí!
+
+## 📫 Contacto
+Puedes encontrarme en:
+- ✉️ Email: [tu-email@example.com](mailto:tu-email@example.com)
+- 🌍 Website: [mi-portafolio.com](https://mi-portafolio.com)
+- 💼 LinkedIn: [linkedin.com/in/usuario](https://linkedin.com/in/usuario)
+
+---
+
+¡Gracias por visitar mi perfil! 🎉
+
