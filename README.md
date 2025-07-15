@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy LUIS MIGUEL CUENCA BUSTOS
+# ¡Hola! 👋 Soy LUIS MIGUEL
 
 ## 🌟 Sobre mí
 Soy un apasionado/a de la tecnología y el desarrollo. Me encanta aprender, colaborar y crear proyectos que marcan la diferencia.
